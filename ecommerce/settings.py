@@ -49,9 +49,7 @@ SECRET_KEY = 'tu-clave-secreta-aqui'
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-
-ALLOWED_HOSTS = []
+DEBUG = False
 
 
 # Application definition
